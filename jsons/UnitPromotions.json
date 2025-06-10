@@ -6,7 +6,6 @@
 	{
 		"name": "Buffalo Horns",
 		"uniques": ["[+1] Movement","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
-		"unitTypes": ["Sword","Gunpowder"],
 		"column": 1
 	},
 	{
@@ -26,7 +25,6 @@
 	{
 		"name": "Mystic Blade", // only for Kris Swordsman and subsequent upgrades
 		"civilopediaText": [{"text": "Access to special promotions"}],
-		"unitTypes": ["Sword","Gunpowder"],
 		"column": 1,
 	},
 	{
